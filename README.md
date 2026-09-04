@@ -103,8 +103,7 @@ throughput (عدد السجلات في الثانية).
 
 عدادات مفصلة: valid_count, corrected_count, quarantine_count.
 
-
-**ثانياً: انسخي هذه الأوامر ككتلة واحدة، ألصقيها في التيرمنال، واضغطي Enter لتنظيف المستودع ورفعه نهائياً:**
+ه
 
 ```powershell
 git rm -r --cached venv_stable
